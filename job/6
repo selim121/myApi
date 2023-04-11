@@ -1,0 +1,18 @@
+{
+    "id": "6",
+    "company_logo": "../src/assets/All Images/netflix-4 1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_part_time": "Full-time",
+    "salary": "$120,000 - $140,000",
+    "job_description": "We are looking for a Software Engineer to help us build scalable and efficient software systems.",
+    "job_responsibility": "Design and implement software solutions, write clean and maintainable code, collaborate with cross-functional teams to identify and prioritize features, troubleshoot and debug technical issues.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software engineering",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "jobs@definc.com"
+    }
+  }

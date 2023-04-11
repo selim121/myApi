@@ -1,0 +1,18 @@
+{
+    "id": "4",
+    "company_logo": "../src/assets/All Images/google-1-1 1.png",
+    "job_title": "HR Manager",
+    "company_name": "Google",
+    "remote_or_onsite": "Onsite",
+    "location": "Chicago, IL",
+    "fulltime_or_part_time": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "We are looking for an experienced HR Manager to lead all aspects of our human resources function.",
+    "job_responsibility": "Develop and implement HR policies and procedures, manage employee relations and performance management, oversee recruitment and onboarding processes, ensure compliance with all employment laws and regulations.",
+    "educational_requirements": "Bachelor's or Master's degree in Human Resources or related field",
+    "experiences": "5+ years of experience in HR management",
+    "contact_information": {
+        "phone": "555-3456",
+        "email": "jobs@ghiinc.com"
+    }
+}

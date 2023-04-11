@@ -1,0 +1,18 @@
+{
+    "id": "5",
+    "company_logo": "../src/assets/All Images/Group 10021.png",
+    "job_title": "Marketing Manager",
+    "company_name": "Airbnb",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, NY",
+    "fulltime_or_part_time": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "job_description": "We are seeking a Marketing Manager to develop and execute marketing strategies for our company.",
+    "job_responsibility": "Develop and execute marketing plans, collaborate with cross-functional teams to create marketing materials, analyze market trends and customer behavior, manage social media and online presence, track and report on campaign performance.",
+    "educational_requirements": "Bachelor's or Master's degree in Marketing or related field",
+    "experiences": "5+ years of experience in marketing management",
+    "contact_information": {
+      "phone": "555-1234",
+      "email": "jobs@abccorp.com"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "id": "3",
+    "company_logo": "../src/assets/All Images/tesla-9 1.png",
+    "job_title": "Software Developer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Los Angeles, CA",
+    "fulltime_or_part_time": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "We are seeking a Software Developer to join our team and help us build scalable web applications.",
+    "job_responsibility": "Develop and maintain software applications, collaborate with cross-functional teams to identify and prioritize features, write clean, scalable code using industry best practices, troubleshoot and debug technical issues.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "contact_information": {
+        "phone": "555-9012",
+        "email": "jobs@defcorp.com"
+    }
+}
