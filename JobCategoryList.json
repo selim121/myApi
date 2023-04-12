@@ -1,25 +1,25 @@
 [
     {
         "id": "1",
-        "logo": "/images/accounts 1.png",
+        "logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/accounts%201.png",
         "name": "Account & Finance",
         "available": "300 Jobs Available"
     },
     {
         "id": "2",
-        "logo": "/images/business 1.png",
+        "logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/business%201.png",
         "name": "Creative Design",
         "available": "100+ Jobs Available"
     },
     {
         "id": "3",
-        "logo": "/images/social-media 1.png",
+        "logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/social-media%201.png",
         "name": "Marketing & Sales",
         "available": "150 Jobs Available"
     },
     {
         "id": "4",
-        "logo": "/images/chip 1.png",
+        "logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/chip%201.png",
         "name": "Engineering Job",
         "available": "300 Jobs Available"
     }

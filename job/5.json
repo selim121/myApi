@@ -1,6 +1,6 @@
 {
     "id": "5",
-    "company_logo": "/images/Group 10021.png",
+    "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/Group%2010021.png",
     "job_title": "Marketing Manager",
     "company_name": "Airbnb",
     "remote_or_onsite": "Onsite",

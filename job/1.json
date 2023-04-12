@@ -1,6 +1,6 @@
 {
     "id": "1",
-    "company_logo": "/images/google-1-1 1.png",
+    "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/google-1-1%201.png",
     "job_title": "Data Scientist",
     "company_name": "Google",
     "remote_or_onsite": "Onsite",

@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "company_logo": "/images/google-1-1 1.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/google-1-1%201.png",
         "job_title": "Data Scientist",
         "company_name": "Google",
         "remote_or_onsite": "Onsite",
@@ -19,7 +19,7 @@
     },
     {
         "id": "2",
-        "company_logo": "/images/netflix-4 1.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/netflix-4%201.png",
         "job_title": "Product Manager",
         "company_name": "Netflix",
         "remote_or_onsite": "Remote",
@@ -37,7 +37,7 @@
     },
     {
         "id": "3",
-        "company_logo": "/images/tesla-9 1.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/tesla-9%201.png",
         "job_title": "Software Developer",
         "company_name": "Tesla",
         "remote_or_onsite": "Onsite",
@@ -55,7 +55,7 @@
     },
     {
         "id": "4",
-        "company_logo": "/images/google-1-1 1.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/google-1-1%201.png",
         "job_title": "HR Manager",
         "company_name": "Google",
         "remote_or_onsite": "Onsite",
@@ -73,7 +73,7 @@
     },
     {
         "id": "5",
-        "company_logo": "/images/Group 10021.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/Group%2010021.png",
         "job_title": "Marketing Manager",
         "company_name": "Airbnb",
         "remote_or_onsite": "Onsite",
@@ -91,7 +91,7 @@
       },
       {
         "id": "6",
-        "company_logo": "/images/netflix-4 1.png",
+        "company_logo": "https://raw.githubusercontent.com/selim121/myApi/main/images/netflix-4%201.png",
         "job_title": "Software Engineer",
         "company_name": "Netflix",
         "remote_or_onsite": "Onsite",
