@@ -1,6 +1,6 @@
 {
     "id": "5",
-    "company_logo": "../src/assets/All Images/Group 10021.png",
+    "company_logo": "/images/Group 10021.png",
     "job_title": "Marketing Manager",
     "company_name": "Airbnb",
     "remote_or_onsite": "Onsite",

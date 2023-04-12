@@ -1,6 +1,6 @@
 {
     "id": "1",
-    "company_logo": "../src/assets/All Images/google-1-1 1.png",
+    "company_logo": "/images/google-1-1 1.png",
     "job_title": "Data Scientist",
     "company_name": "Google",
     "remote_or_onsite": "Onsite",

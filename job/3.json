@@ -1,6 +1,6 @@
 {
     "id": "3",
-    "company_logo": "../src/assets/All Images/tesla-9 1.png",
+    "company_logo": "/images/tesla-9 1.png",
     "job_title": "Software Developer",
     "company_name": "Tesla",
     "remote_or_onsite": "Onsite",
